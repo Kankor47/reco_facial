@@ -1,0 +1,301 @@
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\GLOBALSistemas.GeneralTools.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\GLOBALSistemas.ServiceConsumers.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\WebEye.Controls.WinForms.WebCameraControl.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\AjaxControlToolkit.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\GLOBALSistemas.Cryptography.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\GLOBALSistemas.Messenger.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\HtmlAgilityPack.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\AjaxMin.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\Microsoft.Data.OData.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\Microsoft.Data.Edm.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\System.Spatial.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\GLOBALSistemas.GeneralTools.pdb
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\GLOBALSistemas.ServiceConsumers.pdb
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\GLOBALSistemas.ServiceConsumers.dll.config
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\WebEye.Controls.WinForms.WebCameraControl.pdb
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\AjaxControlToolkit.pdb
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\GLOBALSistemas.Cryptography.pdb
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\GLOBALSistemas.Messenger.pdb
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\Microsoft.Data.OData.xml
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\Microsoft.Data.Edm.xml
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\System.Spatial.xml
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\ar\AjaxControlToolkit.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\cs\AjaxControlToolkit.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\de\AjaxControlToolkit.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\es\AjaxControlToolkit.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\fr\AjaxControlToolkit.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\he\AjaxControlToolkit.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\hi\AjaxControlToolkit.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\it\AjaxControlToolkit.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\ja\AjaxControlToolkit.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\ko\AjaxControlToolkit.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\nl\AjaxControlToolkit.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\pl\AjaxControlToolkit.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\pt\AjaxControlToolkit.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\ru\AjaxControlToolkit.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\de\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\es\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\it\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\de\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\es\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\fr\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\it\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\ja\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\ko\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\ru\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\zh-Hans\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\bin\Debug\zh-Hant\System.Spatial.resources.dll
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CapturaCamara.resources
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CedulaEcuador.resources
+D:\Documents\Visual Studio 2017\Projects\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.CapturaCamara.resources
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.CedulaEcuador.resources
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.Inicio.resources
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.pdb
+E:\Escritorio\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+E:\Escritorio\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.CapturaCamara.resources
+E:\Escritorio\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.CedulaEcuador.resources
+E:\Escritorio\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.Inicio.resources
+E:\Escritorio\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Escritorio\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+E:\Escritorio\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.exe
+E:\Escritorio\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.pdb
+E:\Escritorio\ReconocimientoFacial\bin\Debug\WindowsFormsApp1.exe.config
+E:\Escritorio\ReconocimientoFacial\bin\Debug\WindowsFormsApp1.exe
+E:\Escritorio\ReconocimientoFacial\bin\Debug\WindowsFormsApp1.pdb
+E:\Escritorio\ReconocimientoFacial\bin\Debug\AjaxControlToolkit.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\Newtonsoft.Json.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\HtmlAgilityPack.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\AjaxMin.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\Microsoft.Data.OData.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\Microsoft.Data.Edm.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\System.Spatial.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\GLOBALSistemas.Cryptography.pdb
+E:\Escritorio\ReconocimientoFacial\bin\Debug\GLOBALSistemas.GeneralTools.pdb
+E:\Escritorio\ReconocimientoFacial\bin\Debug\GLOBALSistemas.Messenger.pdb
+E:\Escritorio\ReconocimientoFacial\bin\Debug\GLOBALSistemas.ServiceConsumers.pdb
+E:\Escritorio\ReconocimientoFacial\bin\Debug\GLOBALSistemas.ServiceConsumers.dll.config
+E:\Escritorio\ReconocimientoFacial\bin\Debug\WebEye.Controls.WinForms.WebCameraControl.pdb
+E:\Escritorio\ReconocimientoFacial\bin\Debug\AjaxControlToolkit.pdb
+E:\Escritorio\ReconocimientoFacial\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+E:\Escritorio\ReconocimientoFacial\bin\Debug\Microsoft.Data.OData.xml
+E:\Escritorio\ReconocimientoFacial\bin\Debug\Microsoft.Data.Edm.xml
+E:\Escritorio\ReconocimientoFacial\bin\Debug\System.Spatial.xml
+E:\Escritorio\ReconocimientoFacial\bin\Debug\ar\AjaxControlToolkit.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\cs\AjaxControlToolkit.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\de\AjaxControlToolkit.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\es\AjaxControlToolkit.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\fr\AjaxControlToolkit.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\he\AjaxControlToolkit.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\hi\AjaxControlToolkit.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\it\AjaxControlToolkit.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\ja\AjaxControlToolkit.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\ko\AjaxControlToolkit.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\nl\AjaxControlToolkit.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\pl\AjaxControlToolkit.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\pt\AjaxControlToolkit.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\ru\AjaxControlToolkit.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\de\System.Spatial.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\es\System.Spatial.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\fr\System.Spatial.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\it\System.Spatial.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\ja\System.Spatial.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\ko\System.Spatial.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\ru\System.Spatial.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\Escritorio\ReconocimientoFacial\bin\Debug\zh-Hant\System.Spatial.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\AjaxControlToolkit.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\AjaxMin.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\System.Spatial.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\GLOBALSistemas.Cryptography.pdb
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\GLOBALSistemas.GeneralTools.pdb
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\GLOBALSistemas.Messenger.pdb
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\GLOBALSistemas.ServiceConsumers.pdb
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\GLOBALSistemas.ServiceConsumers.dll.config
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\WebEye.Controls.WinForms.WebCameraControl.pdb
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\AjaxControlToolkit.pdb
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\System.Spatial.xml
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\ar\AjaxControlToolkit.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\cs\AjaxControlToolkit.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\de\AjaxControlToolkit.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\es\AjaxControlToolkit.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\fr\AjaxControlToolkit.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\he\AjaxControlToolkit.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\hi\AjaxControlToolkit.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\it\AjaxControlToolkit.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\ja\AjaxControlToolkit.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\ko\AjaxControlToolkit.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\nl\AjaxControlToolkit.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\pl\AjaxControlToolkit.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\pt\AjaxControlToolkit.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\ru\AjaxControlToolkit.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Cristopher\Documents\Visual Studio 2017\Projects\ReconocimientoFacial\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\WindowsFormsApp1.exe.config
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\WindowsFormsApp1.exe
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\WindowsFormsApp1.pdb
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\AjaxControlToolkit.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\Newtonsoft.Json.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\HtmlAgilityPack.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\AjaxMin.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\Microsoft.Data.OData.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\Microsoft.Data.Edm.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\System.Spatial.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\GLOBALSistemas.Cryptography.pdb
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\GLOBALSistemas.GeneralTools.pdb
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\GLOBALSistemas.Messenger.pdb
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\GLOBALSistemas.ServiceConsumers.pdb
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\GLOBALSistemas.ServiceConsumers.dll.config
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\WebEye.Controls.WinForms.WebCameraControl.pdb
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\AjaxControlToolkit.pdb
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\Microsoft.Data.OData.xml
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\Microsoft.Data.Edm.xml
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\System.Spatial.xml
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\ar\AjaxControlToolkit.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\cs\AjaxControlToolkit.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\de\AjaxControlToolkit.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\es\AjaxControlToolkit.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\fr\AjaxControlToolkit.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\he\AjaxControlToolkit.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\hi\AjaxControlToolkit.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\it\AjaxControlToolkit.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\ja\AjaxControlToolkit.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\ko\AjaxControlToolkit.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\nl\AjaxControlToolkit.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\pl\AjaxControlToolkit.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\pt\AjaxControlToolkit.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\ru\AjaxControlToolkit.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\tr-TR\AjaxControlToolkit.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\zh-CHS\AjaxControlToolkit.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\zh-CHT\AjaxControlToolkit.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\de\Microsoft.Data.OData.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\es\Microsoft.Data.OData.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\it\Microsoft.Data.OData.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\de\System.Spatial.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\es\System.Spatial.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\fr\System.Spatial.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\it\System.Spatial.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\ja\System.Spatial.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\ko\System.Spatial.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\ru\System.Spatial.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\zh-Hans\System.Spatial.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\bin\Debug\zh-Hant\System.Spatial.resources.dll
+E:\Doumentos\reconocimiento\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+E:\Doumentos\reconocimiento\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.CapturaCamara.resources
+E:\Doumentos\reconocimiento\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.CedulaEcuador.resources
+E:\Doumentos\reconocimiento\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.Inicio.resources
+E:\Doumentos\reconocimiento\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\Doumentos\reconocimiento\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+E:\Doumentos\reconocimiento\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.exe
+E:\Doumentos\reconocimiento\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.pdb
