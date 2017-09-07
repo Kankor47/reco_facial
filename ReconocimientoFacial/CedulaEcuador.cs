@@ -290,75 +290,7 @@ namespace WindowsFormsApp1
 
                 ////tabla face
                 //var FaceID = res.FaceId;
-
                 
-
-                ////tabla atributos
-                //var genero = res.FaceAttributes.Gender;
-                //var edad = res.FaceAttributes.Age;
-                //var barba = res.FaceAttributes.FacialHair;
-                //var barba1 = res.FaceAttributes.FacialHair;
-                //var barba2 = res.FaceAttributes.FacialHair.Beard;
-                //var barba3 = res.FaceAttributes.FacialHair.Sideburns;
-                //var gafas = res.FaceAttributes.Glasses;
-                //var cabeza = res.FaceAttributes.HeadPose;
-                //var cabeza1 = res.FaceAttributes.HeadPose.Pitch;
-                //var cabeza2 = res.FaceAttributes.HeadPose.Roll;
-                //var cabeza3 = res.FaceAttributes.HeadPose.Yaw;
-                //var sonrisa = res.FaceAttributes.Smile;
-
-                ////tabla referencia
-                //var EyebrowLeftInner = res.FaceLandmarks.EyebrowLeftInner.X;
-                //var EyebrowLeftInner2 = res.FaceLandmarks.EyebrowLeftInner.Y;
-                //var EyebrowLeftOuter = res.FaceLandmarks.EyebrowLeftOuter.X;
-                //var EyebrowLeftOuter2 = res.FaceLandmarks.EyebrowLeftOuter.Y;
-                //var EyebrowRightInner = res.FaceLandmarks.EyebrowRightInner.X;
-                //var EyebrowRightInner2 = res.FaceLandmarks.EyebrowRightInner.Y;
-                //var EyebrowRightOuter = res.FaceLandmarks.EyebrowRightOuter.X;
-                //var EyebrowRightOuter2 = res.FaceLandmarks.EyebrowRightOuter.Y;
-                //var EyeLeftBottom = res.FaceLandmarks.EyeLeftBottom.X;
-                //var EyeLeftBottom2 = res.FaceLandmarks.EyeLeftBottom.Y;
-                //var EyeLeftInner = res.FaceLandmarks.EyeLeftInner.X;
-                //var EyeLeftInner2 = res.FaceLandmarks.EyeLeftInner.Y;
-                //var EyeLeftOuter = res.FaceLandmarks.EyeLeftOuter.X;
-                //var EyeLeftOuter2 = res.FaceLandmarks.EyeLeftOuter.Y;
-                //var EyeLeftTop = res.FaceLandmarks.EyeLeftTop.X;
-                //var EyeLeftTop2 = res.FaceLandmarks.EyeLeftTop.Y;
-                //var EyeRightBottom = res.FaceLandmarks.EyeRightBottom.X;
-                //var EyeRightBottom2 = res.FaceLandmarks.EyeRightBottom.Y;
-                //var EyeRightInner = res.FaceLandmarks.EyeRightInner.X;
-                //var EyeRightInner2 = res.FaceLandmarks.EyeRightInner.Y;
-                //var EyeRightOuter = res.FaceLandmarks.EyeRightOuter.X;
-                //var EyeRightOuter2 = res.FaceLandmarks.EyeRightOuter.Y;
-                //var EyeRightTop = res.FaceLandmarks.EyeRightTop.X;
-                //var EyeRightTop2 = res.FaceLandmarks.EyeRightTop.Y;
-                //var MouthLeft = res.FaceLandmarks.MouthLeft.X;
-                //var MouthLeft2 = res.FaceLandmarks.MouthLeft.Y;
-                //var MouthRight = res.FaceLandmarks.MouthRight.X;
-                //var MouthRight2 = res.FaceLandmarks.MouthRight.Y;
-                //var NoseLeftAlarOutTip = res.FaceLandmarks.NoseLeftAlarOutTip.X;
-                //var NoseLeftAlarOutTip2 = res.FaceLandmarks.NoseLeftAlarOutTip.Y;
-                //var NoseLeftAlarTop = res.FaceLandmarks.NoseLeftAlarTop.X;
-                //var NoseLeftAlarTop2 = res.FaceLandmarks.NoseLeftAlarTop.Y;
-                //var NoseRightAlarOutTip = res.FaceLandmarks.NoseRightAlarOutTip.X;
-                //var NoseRightAlarOutTip2 = res.FaceLandmarks.NoseRightAlarOutTip.Y;
-                //var NoseRightAlarTop = res.FaceLandmarks.NoseRightAlarTop.X;
-                //var NoseRightAlarTop2 = res.FaceLandmarks.NoseRightAlarTop.Y;
-                //var NoseRootLeft = res.FaceLandmarks.NoseRootLeft.X;
-                //var NoseRootLeft2 = res.FaceLandmarks.NoseRootLeft.Y;
-                //var NoseRootRight = res.FaceLandmarks.NoseRootRight.X;
-                //var NoseRootRight2 = res.FaceLandmarks.NoseRootRight.Y;
-                //var NoseTip = res.FaceLandmarks.NoseTip.X;
-                //var NoseTip2 = res.FaceLandmarks.NoseTip.Y;
-                //var PupilLeft = res.FaceLandmarks.PupilLeft.X;
-                //var PupilLeft2 = res.FaceLandmarks.PupilLeft.Y;
-                //var PupilRight = res.FaceLandmarks.PupilRight.X;
-                //var PupilRight2 = res.FaceLandmarks.PupilRight.Y;
-                //var UnderLipBottom = res.FaceLandmarks.UnderLipBottom.X;
-                //var UnderLipBottom2 = res.FaceLandmarks.UnderLipBottom.Y;
-                //var UnderLipTop = res.FaceLandmarks.UnderLipTop.X;
-                //var UnderLipTop2 = res.FaceLandmarks.UnderLipTop.Y;
-
                 return retorno;
             }
         }
@@ -389,14 +321,147 @@ namespace WindowsFormsApp1
                     cmd.Parameters.Add("@posy", SqlDbType.Int).Value = posy;
 
                     retorno = cmd.ExecuteNonQuery();
-                    if (retorno > 0)
-                    {
-                        MessageBox.Show("Registro fue Grabado Correctamente", "Mensaje de Exito", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
-                    }
-                    else
-                    {
-                        MessageBox.Show("Registro No fue Grabado", "Mensaje de Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                    }
+                }
+                return retorno;
+            }
+        }
+
+        public static int insertar_atrib()
+        {        
+            CedulaEcuador ce = new CedulaEcuador();
+            var fot = ce.FotoCedula.ImageLocation;
+
+            using (var req = new Services.CognitiveServices.Request(true))
+            {
+                var res = req.FaceDetect(fot, Services.CognitiveServices.FaceAttributesEnum.All);
+
+                var genero = res.FaceAttributes.Gender;
+                var edad = res.FaceAttributes.Age;
+                var barba = res.FaceAttributes.FacialHair;
+                var barba1 = res.FaceAttributes.FacialHair;
+                var barba2 = res.FaceAttributes.FacialHair.Beard;
+                var barba3 = res.FaceAttributes.FacialHair.Sideburns;
+                var gafas = res.FaceAttributes.Glasses;
+                var cabeza = res.FaceAttributes.HeadPose;
+                var cabeza1 = res.FaceAttributes.HeadPose.Pitch;
+                var cabeza2 = res.FaceAttributes.HeadPose.Roll;
+                var cabeza3 = res.FaceAttributes.HeadPose.Yaw;
+                var sonrisa = res.FaceAttributes.Smile;
+
+                int retorno = 0;
+                using (SqlConnection conectar = ConectarBD.ObtenerConexion())
+                {
+
+                    SqlCommand cmd = new SqlCommand("insert into atributos (genero,edad,barba,gafas,cabeza,sonrisa) values(@genero,@edad,@barba,@gafas,@cabeza,@sonrisa)", conectar);
+
+                    cmd.Parameters.Add("@genero", SqlDbType.VarChar, 20).Value = genero;
+                    cmd.Parameters.Add("@edad", SqlDbType.VarChar, 20).Value = edad;
+                    cmd.Parameters.Add("@barba", SqlDbType.VarChar,100).Value = barba+", "+barba1 + ", "+barba2+", " +barba3;
+                    cmd.Parameters.Add("@gafas", SqlDbType.VarChar, 100).Value = gafas;
+                    cmd.Parameters.Add("@cabeza", SqlDbType.VarChar, 100).Value = cabeza + ", " +cabeza1 + ", " +cabeza2 + ", " +cabeza3;
+                    cmd.Parameters.Add("@sonrisa", SqlDbType.VarChar, 100).Value = sonrisa;
+
+                    retorno = cmd.ExecuteNonQuery();
+                }
+                return retorno;
+            }
+        }
+
+        public static int insertar_ref()
+        {
+            CedulaEcuador ce = new CedulaEcuador();
+            var fot = ce.FotoCedula.ImageLocation;
+
+            using (var req = new Services.CognitiveServices.Request(true))
+            {
+                var res = req.FaceDetect(fot, Services.CognitiveServices.FaceAttributesEnum.All);
+
+                var EyebrowLeftInner = res.FaceLandmarks.EyebrowLeftInner.X;
+                var EyebrowLeftInner2 = res.FaceLandmarks.EyebrowLeftInner.Y;
+                var EyebrowLeftOuter = res.FaceLandmarks.EyebrowLeftOuter.X;
+                var EyebrowLeftOuter2 = res.FaceLandmarks.EyebrowLeftOuter.Y;
+                var EyebrowRightInner = res.FaceLandmarks.EyebrowRightInner.X;
+                var EyebrowRightInner2 = res.FaceLandmarks.EyebrowRightInner.Y;
+                var EyebrowRightOuter = res.FaceLandmarks.EyebrowRightOuter.X;
+                var EyebrowRightOuter2 = res.FaceLandmarks.EyebrowRightOuter.Y;
+                var EyeLeftBottom = res.FaceLandmarks.EyeLeftBottom.X;
+                var EyeLeftBottom2 = res.FaceLandmarks.EyeLeftBottom.Y;
+                var EyeLeftInner = res.FaceLandmarks.EyeLeftInner.X;
+                var EyeLeftInner2 = res.FaceLandmarks.EyeLeftInner.Y;
+                var EyeLeftOuter = res.FaceLandmarks.EyeLeftOuter.X;
+                var EyeLeftOuter2 = res.FaceLandmarks.EyeLeftOuter.Y;
+                var EyeLeftTop = res.FaceLandmarks.EyeLeftTop.X;
+                var EyeLeftTop2 = res.FaceLandmarks.EyeLeftTop.Y;
+                var EyeRightBottom = res.FaceLandmarks.EyeRightBottom.X;
+                var EyeRightBottom2 = res.FaceLandmarks.EyeRightBottom.Y;
+                var EyeRightInner = res.FaceLandmarks.EyeRightInner.X;
+                var EyeRightInner2 = res.FaceLandmarks.EyeRightInner.Y;
+                var EyeRightOuter = res.FaceLandmarks.EyeRightOuter.X;
+                var EyeRightOuter2 = res.FaceLandmarks.EyeRightOuter.Y;
+                var EyeRightTop = res.FaceLandmarks.EyeRightTop.X;
+                var EyeRightTop2 = res.FaceLandmarks.EyeRightTop.Y;
+                var MouthLeft = res.FaceLandmarks.MouthLeft.X;
+                var MouthLeft2 = res.FaceLandmarks.MouthLeft.Y;
+                var MouthRight = res.FaceLandmarks.MouthRight.X;
+                var MouthRight2 = res.FaceLandmarks.MouthRight.Y;
+                var NoseLeftAlarOutTip = res.FaceLandmarks.NoseLeftAlarOutTip.X;
+                var NoseLeftAlarOutTip2 = res.FaceLandmarks.NoseLeftAlarOutTip.Y;
+                var NoseLeftAlarTop = res.FaceLandmarks.NoseLeftAlarTop.X;
+                var NoseLeftAlarTop2 = res.FaceLandmarks.NoseLeftAlarTop.Y;
+                var NoseRightAlarOutTip = res.FaceLandmarks.NoseRightAlarOutTip.X;
+                var NoseRightAlarOutTip2 = res.FaceLandmarks.NoseRightAlarOutTip.Y;
+                var NoseRightAlarTop = res.FaceLandmarks.NoseRightAlarTop.X;
+                var NoseRightAlarTop2 = res.FaceLandmarks.NoseRightAlarTop.Y;
+                var NoseRootLeft = res.FaceLandmarks.NoseRootLeft.X;
+                var NoseRootLeft2 = res.FaceLandmarks.NoseRootLeft.Y;
+                var NoseRootRight = res.FaceLandmarks.NoseRootRight.X;
+                var NoseRootRight2 = res.FaceLandmarks.NoseRootRight.Y;
+                var NoseTip = res.FaceLandmarks.NoseTip.X;
+                var NoseTip2 = res.FaceLandmarks.NoseTip.Y;
+                var PupilLeft = res.FaceLandmarks.PupilLeft.X;
+                var PupilLeft2 = res.FaceLandmarks.PupilLeft.Y;
+                var PupilRight = res.FaceLandmarks.PupilRight.X;
+                var PupilRight2 = res.FaceLandmarks.PupilRight.Y;
+                var UnderLipBottom = res.FaceLandmarks.UnderLipBottom.X;
+                var UnderLipBottom2 = res.FaceLandmarks.UnderLipBottom.Y;
+                var UnderLipTop = res.FaceLandmarks.UnderLipTop.X;
+                var UnderLipTop2 = res.FaceLandmarks.UnderLipTop.Y;
+                
+
+                int retorno = 0;
+                using (SqlConnection conectar = ConectarBD.ObtenerConexion())
+                {
+
+                    SqlCommand cmd = new SqlCommand("insert into atributos (EyebrowLeftInner,EyebrowLeftOuter,EyebrowRightInner,EyebrowRightOuter,EyeLeftBottom,EyeLeftInner,EyeLeftOuter,EyeLeftTop,EyeRightBottom,EyeRightInner,EyeRightOuter,EyeRightTop,MouthLeft,MouthRight,NoseLeftAlarOutTip,NoseLeftAlarTop,NoseRightAlarOutTip,NoseRightAlarTop,NoseRootLeft,NoseRootRight,NoseTip,PupilLeft,PupilRight,UnderLipBottom,UnderLipTop) " +
+                        "values(@EyebrowLeftInner,@EyebrowLeftOuter,@EyebrowRightInner,@EyebrowRightOuter,@EyeLeftBottom,@EyeLeftInner,@EyeLeftOuter,@EyeLeftTop,@EyeRightBottom,@EyeRightInner,@EyeRightOuter,@EyeRightTop,@MouthLeft,@MouthRight,@NoseLeftAlarOutTip,@NoseLeftAlarTop,@NoseRightAlarOutTip,@NoseRightAlarTop,@NoseRootLeft,@NoseRootRight,@NoseTip,@PupilLeft,@PupilRight,@UnderLipBottom,@UnderLipTop)", conectar);
+
+                    cmd.Parameters.Add("@EyebrowLeftInner", SqlDbType.VarChar, 100).Value = EyebrowLeftInner + ", " +EyebrowLeftInner2;
+                    cmd.Parameters.Add("@EyebrowLeftOuter", SqlDbType.VarChar, 100).Value = EyebrowLeftOuter + ", " +EyebrowLeftOuter2;
+                    cmd.Parameters.Add("@EyebrowRightInner", SqlDbType.VarChar, 100).Value = EyebrowRightInner + ", " + EyebrowRightInner2;
+                    cmd.Parameters.Add("@EyebrowRightOuter", SqlDbType.VarChar, 100).Value = EyebrowRightOuter + ", " +EyebrowRightOuter2;
+                    cmd.Parameters.Add("@EyeLeftBottom", SqlDbType.VarChar, 100).Value = EyeLeftBottom + ", " + EyeLeftBottom2;
+                    cmd.Parameters.Add("@EyeLeftInner", SqlDbType.VarChar, 100).Value = EyeLeftInner + ", " +EyeLeftInner2;
+                    cmd.Parameters.Add("@EyeLeftOuter", SqlDbType.VarChar, 100).Value = EyeLeftOuter + ", " +EyeLeftOuter2;
+                    cmd.Parameters.Add("@EyeLeftTop", SqlDbType.VarChar, 100).Value = EyeLeftTop + ", " +EyeLeftTop2;
+                    cmd.Parameters.Add("@EyeRightBottom", SqlDbType.VarChar, 100).Value = EyeRightBottom + ", " + EyeRightBottom2;
+                    cmd.Parameters.Add("@EyeRightInner", SqlDbType.VarChar, 100).Value = EyeRightInner + ", " +EyeRightInner2;
+                    cmd.Parameters.Add("@EyeRightOuter", SqlDbType.VarChar, 100).Value = EyeRightOuter + ", " + EyeRightOuter2;
+                    cmd.Parameters.Add("@EyeRightTop", SqlDbType.VarChar, 100).Value = EyeRightTop + ", " +EyeRightTop2;
+                    cmd.Parameters.Add("@MouthLeft", SqlDbType.VarChar, 100).Value = MouthLeft + ", " +MouthLeft2;
+                    cmd.Parameters.Add("@MouthRight", SqlDbType.VarChar, 100).Value = MouthRight + ", " +MouthRight2;
+                    cmd.Parameters.Add("@NoseLeftAlarOutTip", SqlDbType.VarChar, 100).Value = NoseLeftAlarOutTip + ", " + NoseLeftAlarOutTip2;
+                    cmd.Parameters.Add("@NoseLeftAlarTop", SqlDbType.VarChar, 100).Value = NoseLeftAlarTop + ", " +NoseLeftAlarTop2;
+                    cmd.Parameters.Add("@NoseRightAlarOutTip", SqlDbType.VarChar, 100).Value = NoseRightAlarOutTip + ", " + NoseRightAlarOutTip2;
+                    cmd.Parameters.Add("@NoseRightAlarTop", SqlDbType.VarChar, 100).Value = NoseRightAlarTop + ", " +NoseRightAlarTop2;
+                    cmd.Parameters.Add("@NoseRootLeft", SqlDbType.VarChar, 100).Value = NoseRootLeft + ", " +NoseRootLeft2;
+                    cmd.Parameters.Add("@NoseRootRight", SqlDbType.VarChar, 100).Value = NoseRootRight + ", " +NoseRootRight2;
+                    cmd.Parameters.Add("@NoseTip", SqlDbType.VarChar, 100).Value = NoseTip + ", " + NoseTip2;
+                    cmd.Parameters.Add("@PupilLeft", SqlDbType.VarChar, 100).Value = PupilLeft + ", " +PupilLeft2;
+                    cmd.Parameters.Add("@PupilRight", SqlDbType.VarChar, 100).Value = PupilRight + ", " + PupilRight2;
+                    cmd.Parameters.Add("@UnderLipBottom", SqlDbType.VarChar, 100).Value = UnderLipBottom + ", " +UnderLipBottom2;
+                    cmd.Parameters.Add("@UnderLipTop", SqlDbType.VarChar, 100).Value = UnderLipTop + ", " +UnderLipTop2;
+
+                    retorno = cmd.ExecuteNonQuery();
                 }
                 return retorno;
             }
@@ -409,9 +474,11 @@ namespace WindowsFormsApp1
             ce.FotoCedula.ImageLocation = FotoCedula.ImageLocation;
             ce.Firma.ImageLocation = Firma.ImageLocation;
             int resul = insertar_dato(ce);
-            insertar_facial();
+            int resul1= insertar_facial();
+            int resul2 = insertar_atrib();
+            int resul3 = insertar_ref();
 
-            if (resul > 0)
+            if (resul > 0 && resul1 >0 && resul2 > 0 && resul3 > 0)
             {
                 MessageBox.Show("Registro fue Grabado Correctamente", "Mensaje de Exito", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
             }
