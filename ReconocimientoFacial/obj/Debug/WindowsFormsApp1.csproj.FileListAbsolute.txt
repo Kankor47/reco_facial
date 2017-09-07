@@ -299,3 +299,4 @@ E:\Doumentos\reconocimiento\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.Prop
 E:\Doumentos\reconocimiento\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
 E:\Doumentos\reconocimiento\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.exe
 E:\Doumentos\reconocimiento\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.pdb
+E:\Doumentos\reconocimiento\ReconocimientoFacial\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache

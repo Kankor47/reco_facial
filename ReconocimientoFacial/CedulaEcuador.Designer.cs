@@ -68,6 +68,7 @@
             this.Firma = new System.Windows.Forms.PictureBox();
             this.FotoCedula = new System.Windows.Forms.PictureBox();
             this.FotoCamara = new System.Windows.Forms.PictureBox();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.Firma)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.FotoCedula)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.FotoCamara)).BeginInit();
@@ -544,12 +545,23 @@
             this.FotoCamara.TabIndex = 47;
             this.FotoCamara.TabStop = false;
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(570, 478);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 114;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // CedulaEcuador
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
-            this.ClientSize = new System.Drawing.Size(1050, 454);
+            this.ClientSize = new System.Drawing.Size(1050, 515);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.Firma);
             this.Controls.Add(this.FotoCedula);
             this.Controls.Add(this.label16);
@@ -648,5 +660,6 @@
 		private System.Windows.Forms.Label label1;
 		private System.Windows.Forms.TextBox txtCodDactilar;
 		private System.Windows.Forms.TextBox txtCedula;
-	}
+        private System.Windows.Forms.Button button1;
+    }
 }

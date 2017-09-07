@@ -31,7 +31,7 @@ namespace WindowsFormsApp1
 
         public static SqlConnection CerrarConexion()
         {
-            SqlConnection conectar = new SqlConnection(ConfigurationManager.ConnectionStrings["cadenadeconexion"].ToString());
+            SqlConnection conectar = new SqlConnection("Data Source=.; Initial Catalog=reconocimiento; User Id=sa; Password=kratos12");
             conectar.Close();
             return conectar;
         }
